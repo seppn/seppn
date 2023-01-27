@@ -9,7 +9,7 @@
 
  👨🏻‍💻 I am currently working on 2 main projects:
 <br>
-  1. Developing a site for TechinTO...a Tech community in Toronto I founded and organize events for.<br> 
+  1. Developing a site for <a href="https://www.meetup.com/techinto/">TechinTO</a>...a Tech community in Toronto I founded and organize events for.<br> 
   2. Re-writing <a href="https://langulife.com">Langulife</a> with React to implement its new UX design.
 <br>
  😎 I'm currently looking for new opportunities to develop beautiful and dynamic websites, collaborating with awesome colleagues. 
