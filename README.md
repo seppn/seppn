@@ -1,11 +1,10 @@
 ### Hi there 👋, I am Sepp Nasri
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seppn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
  
- You can find my personal portfolio website <a href="https://sepp-portfolio.vercel.app/">Here</a>.
+ You can find my personal portfolio website <a href="https://seppnasri.com/">Here</a>.
 
  👨🏻‍💻 I am currently working on 2 main projects:
 <br>
