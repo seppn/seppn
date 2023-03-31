@@ -6,7 +6,7 @@
  
  You can find my personal portfolio website <a href="https://seppnasri.com/">Here</a>.
 
- 👨🏻‍💻 I am currently working on 2 main projects:
+ 👨🏻‍💻 I am currently working on a project:
 <br>
   1. Developing a site for a Tennis Bootcamp Summer Program...
 <br>
