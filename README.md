@@ -6,15 +6,7 @@
  
  You can find my personal portfolio website <a href="https://seppnasri.com/">Here</a>.
 
- 👨🏻‍💻 I am currently working on a project:
-<br>
-  1. Developing a site for a Tennis Bootcamp Summer Program...
-<br>
- 😎 I'm currently looking for new opportunities to develop beautiful and dynamic websites, collaborating with awesome colleagues. 
- <br>
- ⚡  Fun fact: I can speak in 5 languages (English, Persian, Russian, Polish, Spanish).
-<br>
-<br>
+ 
  📬 You can reach me at <a href="mailto:seppnasri@gmail.com">my email</a>.
 
 <!--
