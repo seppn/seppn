@@ -4,9 +4,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
  
- You can find my personal portfolio website <a href="https://seppnasri.com/">Here</a>.
-
- 
  📬 You can reach me at <a href="mailto:seppnasri@gmail.com">my email</a>.
 
 <!--
